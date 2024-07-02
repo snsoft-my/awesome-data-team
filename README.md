@@ -18,6 +18,10 @@ A collection of various awesome resources for data team
 ### Game BI System
 - [A BI example by thinkingdata](https://drive.google.com/file/d/1-ULNzW6Kchtf3FPjohJ12sUuLzmxuCx7/view?usp=drive_link)
 
+
+## Data Engineering (DE)
+[back to top](#awesome-data-team)
+
 ### Guide
 - [Fundmentals of Data Engineering](#fundmentals-of-data-engineering)
 - [Analytics Engineering](#analytics-engineering)
@@ -43,6 +47,4 @@ A collection of various awesome resources for data team
 ## Machine Learning
 [back to top](#awesome-data-team)
 
-## Data Engineering (DE)
-[back to top](#awesome-data-team)
 

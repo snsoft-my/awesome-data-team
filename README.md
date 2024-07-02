@@ -10,13 +10,13 @@ A collection of various awesome resources for data team
 - [Data Engineering](#data-engineering)
 
 ## Business Knowledge
-
-## Data Analysis
-
-## Machine Learning
-
-## Data Engineering (DE)
 [back to top](#awesome-data-team)
+
+### Guide
+- [Game BI System](#game-bi-system)
+
+### Game BI System
+- [A BI example by thinkingdata](https://drive.google.com/file/d/1-ULNzW6Kchtf3FPjohJ12sUuLzmxuCx7/view?usp=drive_link)
 
 ### Guide
 - [Fundmentals of Data Engineering](#fundmentals-of-data-engineering)
@@ -35,4 +35,14 @@ A collection of various awesome resources for data team
 
 - [Apache Pulsar in Action](https://drive.google.com/file/d/146c3kVbgcrwyXwUlDBtA9F7yiHVvQi5N/view?usp=drive_link). A comprehensive and practical guide to building high-traffic applications with Pulsar.
 
+
+
+## Data Analysis
+[back to top](#awesome-data-team)
+
+## Machine Learning
+[back to top](#awesome-data-team)
+
+## Data Engineering (DE)
+[back to top](#awesome-data-team)
 

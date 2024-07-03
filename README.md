@@ -27,7 +27,7 @@ A collection of various awesome resources for data team. Welcome more resources 
 
 ### Game Operation
 - [游戏运营：高手进阶之路](https://drive.google.com/file/d/1IboLlCVc28SsOVJG4mTRFqhSlDA596fM/view?usp=drive_link). 本书完整覆盖了一个游戏运营人员日常工作中的方方面面，并从工作中具体的业务场景出发，归纳整理出各种解决问题的方法论。
-- [米位的小白学游戏运营系列](https://mp.weixin.qq.com/s/aXut3-93zGW2oZbjXqsSmg). 面向小白的游戏运营学习系列文章，该作者分享游戏相关资讯，可以关注。
+
 
 ### Game Data Analysis
 - [游戏数据分析实战](https://drive.google.com/file/d/16EZHs9ByD_ho4NSqCuwALsez4tytcQIW/view?usp=drive_link). 本书针对游戏策划、游戏运营、游戏数据分析、产品数据分析挖掘、数据平台开发维护人员及对数据分析感兴趣的读者，介绍怎样利用数据分析游戏生命周期中各阶段遇到的问题。

@@ -12,10 +12,14 @@ A collection of various awesome resources for data team. Welcome more resources 
 ## Business Knowledge
 
 ### Guide
+- [General Game Information](#general-game-information)
 - [Game BI System](#game-bi-system)
 - [Game Operation](#game-operation)
 - [Game Data Analysis](#game-data-analysis)
 - [back to top](#awesome-data-team)
+
+### General Game Information
+- [游戏葡萄](https://youxiputao.com/). 关于游戏的综合资料平台网站。
 
 ### Game BI System
 - [Thinking data](https://www.thinkingdata.cn/). 一家中国游戏大数据服务商，为游戏打造一体化数据驱动解决方案，满足游戏企业全品类、全场景、全生命周期的数据需求。[A BI example by thinkingdata](https://drive.google.com/file/d/1-ULNzW6Kchtf3FPjohJ12sUuLzmxuCx7/view?usp=drive_link).
@@ -23,6 +27,7 @@ A collection of various awesome resources for data team. Welcome more resources 
 
 ### Game Operation
 - [游戏运营：高手进阶之路](https://drive.google.com/file/d/1IboLlCVc28SsOVJG4mTRFqhSlDA596fM/view?usp=drive_link). 本书完整覆盖了一个游戏运营人员日常工作中的方方面面，并从工作中具体的业务场景出发，归纳整理出各种解决问题的方法论。
+- [知乎小白学游戏运营系列](https://zhuanlan.zhihu.com/p/589044736). 面向小白的游戏运营学习系列文章。
 
 ### Game Data Analysis
 - [游戏数据分析实战](https://drive.google.com/file/d/16EZHs9ByD_ho4NSqCuwALsez4tytcQIW/view?usp=drive_link). 本书针对游戏策划、游戏运营、游戏数据分析、产品数据分析挖掘、数据平台开发维护人员及对数据分析感兴趣的读者，介绍怎样利用数据分析游戏生命周期中各阶段遇到的问题。

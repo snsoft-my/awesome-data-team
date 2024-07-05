@@ -53,6 +53,7 @@ A collection of various awesome resources for data team. Welcome more resources 
  - [Building a Kimball dimensional model with dbt](https://docs.getdbt.com/blog/kimball-dimensional-model). 
 
 ### Data Warehouse Design
+- [数据仓库设计](https://drive.google.com/file/d/1iW9jIlwGMBl4dthQpUUnb49Y8s8IhuK3/view?usp=drive_link)，节选自《Doris实时数仓实战》，较为全面地介绍了数据建模、数仓分层、离线与实时数仓设计。
 - The architecture of layers, i.e. ODS/DWD/DWM/DWS/ADS, within a data warehouse.
     - [详解数仓中的数据分层：ODS、DWD、DWM、DWS、ADS](https://juejin.cn/post/6969874734355841031). 综合介绍了数仓中的分层。
     - [通用的数据仓库分层方法](https://www.cnblogs.com/itboys/p/10592871.html). 综合介绍了数仓中的分层，互为佐证。

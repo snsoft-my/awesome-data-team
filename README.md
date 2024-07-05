@@ -60,6 +60,7 @@ A collection of various awesome resources for data team. Welcome more resources 
 - [Kimball dimension modeling](https://docs.getdbt.com/terms/dimensional-modeling). A widely adopted data modelling method in data warehouse, which is suitable for quick evolving business. (In contrast, Inmon modelling is for stable business, e.g. banking)
     - [Kimball’s Dimensional Data Modeling](https://www.holistics.io/books/setup-analytics/kimball-s-dimensional-data-modeling/). A summary of what is kimball dimensional modeling.
      - [Building a Kimball dimensional model with dbt](https://docs.getdbt.com/blog/kimball-dimensional-model). Implementation with dbt.
+     - [可视化的逻辑](https://drive.google.com/file/d/1AM4m5zXpGNbtQc4UB4vPdddvSjX1g8Ti/view?usp=drive_link)。Kimball 中的维度与事实，与可视化中的维度与度量，概念是一致的，从而使建模与可视化一致。
 
 
 ### Message Queue
@@ -71,8 +72,13 @@ A collection of various awesome resources for data team. Welcome more resources 
 ## Data Analysis
 
 ### Guide
+- [Visualization](#visualization)
 - [Application in Game](#applications-in-game)
 - [back to top](#awesome-data-team)
+
+### Visualization
+- [可视化的逻辑](https://drive.google.com/file/d/1AM4m5zXpGNbtQc4UB4vPdddvSjX1g8Ti/view?usp=drive_link). 节选自《数据可视化分析：tableau原理与实战》，介绍了从维度与度量出发的数据可视化思想，这也与 Kimball 维度建模的基本概念一致，参见 [Data Warehouse Design](#data-warehouse-design)。
+
 
 ### Applications in Game
 - [游戏数据分析实战](https://drive.google.com/file/d/16EZHs9ByD_ho4NSqCuwALsez4tytcQIW/view?usp=drive_link). 本书针对游戏策划、游戏运营、游戏数据分析、产品数据分析挖掘、数据平台开发维护人员及对数据分析感兴趣的读者，介绍怎样利用数据分析游戏生命周期中各阶段遇到的问题。

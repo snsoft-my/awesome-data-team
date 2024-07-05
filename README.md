@@ -60,9 +60,10 @@ A collection of various awesome resources for data team. Welcome more resources 
     - [通用的数据仓库分层方法](https://www.cnblogs.com/itboys/p/10592871.html). 综合介绍了数仓中的分层，互为佐证。
     - [Maxcompute 中的数仓分层](https://help.aliyun.com/zh/maxcompute/getting-started/divide-a-data-warehouse-into-layers?spm=a2c4g.11186623.0.0.54ae1617P4nOjO). 除了该“数仓分层”，还有相关资料也值得一看，包括“数据模型”，用样例表介绍了该层的作用。
 - [Kimball dimension modeling](https://docs.getdbt.com/terms/dimensional-modeling). A widely adopted data modelling method in data warehouse, which is suitable for quick evolving business. (In contrast, Inmon modelling is for stable business, e.g. banking)
-    - [Kimball’s Dimensional Data Modeling](https://www.holistics.io/books/setup-analytics/kimball-s-dimensional-data-modeling/). A summary of what is kimball dimensional modeling.
-     - [Building a Kimball dimensional model with dbt](https://docs.getdbt.com/blog/kimball-dimensional-model). Implementation with dbt.
-     - [可视化的逻辑](https://drive.google.com/file/d/1AM4m5zXpGNbtQc4UB4vPdddvSjX1g8Ti/view?usp=drive_link)。Kimball 中的维度与事实，与可视化中的维度与度量，概念是一致的，从而使建模与可视化一致。
+    - [Kimball Dimensional Data Modeling](https://www.holistics.io/books/setup-analytics/kimball-s-dimensional-data-modeling/). A summary of what is kimball dimensional modeling.
+    - [Kimball Dimensional Modeling Techniques](https://www.kimballgroup.com/wp-content/uploads/2013/08/2013.09-Kimball-Dimensional-Modeling-Techniques11.pdf). Techniques of applying kimball dimensional modeling.
+    - [可视化的逻辑](https://drive.google.com/file/d/1AM4m5zXpGNbtQc4UB4vPdddvSjX1g8Ti/view?usp=drive_link)。Kimball 中的维度与事实，与可视化中的维度与度量，概念是一致的，从而使建模与可视化一致。
+    - [Building a Kimball dimensional model with dbt](https://docs.getdbt.com/blog/kimball-dimensional-model). Implementation with dbt.
 
 
 ### Message Queue

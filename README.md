@@ -34,7 +34,7 @@ A collection of various awesome resources for data team. Welcome more resources 
 - [游戏数据分析的艺术](https://drive.google.com/file/d/1bOdtfZdScjmSDeb0sK0RNtZ8gmi1w8nv/view?usp=drive_link). 本书详细剖析了游戏数据分析相关的指标、方法论、内容挖掘、数据挖掘、软件使用、游戏设计、运营策划、渠道推广、收入解读、用户分析和留存分析等。
 
 
-## Data Engineering (DE)
+## Data Engineering
 
 ### Guide
 - [Fundmentals of Data Engineering](#fundmentals-of-data-engineering)

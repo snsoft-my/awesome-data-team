@@ -44,6 +44,7 @@ A collection of various awesome resources for data team. Welcome more resources 
 - [back to top](#awesome-data-team)
 
 ### Fundmentals of Data Engineering
+- [Data Engineering Wiki](https://dataengineering.wiki/Index).
 - [Designing data-intensive applications: the big ideas behind reliable, scalable, and maintainable systems](https://drive.google.com/file/d/1JLTM-09WZ87EkXOA6-BIbbJkbtFU9IcH/view?usp=drive_link). A must read book for any serious data engineer.[(Chinese Version)](https://drive.google.com/file/d/1XOijYZhanKmrCSbF1ZpWENlbt6Mhiye9/view?usp=drive_link)
 - [Fundamentals of Data Engineering](https://drive.google.com/file/d/1F2y11_rpKPUW_953Swylsl5eVzUtl16g/view?usp=drive_link). Learn the data engineering lifecycle and  how to apply basic critical ideas in any data environment regardless of the underlying technology.
 

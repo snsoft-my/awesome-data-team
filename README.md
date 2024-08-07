@@ -38,6 +38,7 @@ A collection of various awesome resources for data team. Welcome more resources 
 
 ### Guide
 - [Fundmentals of Data Engineering](#fundmentals-of-data-engineering)
+- [Databases](#databases)
 - [Analytics Engineering](#analytics-engineering)
 - [Data Warehouse Design](#data-warehouse-design)
 - [Messaging Queue](#message-queue)
@@ -47,6 +48,10 @@ A collection of various awesome resources for data team. Welcome more resources 
 - [Data Engineering Wiki](https://dataengineering.wiki/Index).
 - [Designing data-intensive applications: the big ideas behind reliable, scalable, and maintainable systems](https://drive.google.com/file/d/1JLTM-09WZ87EkXOA6-BIbbJkbtFU9IcH/view?usp=drive_link). A must read book for any serious data engineer.[(Chinese Version)](https://drive.google.com/file/d/1XOijYZhanKmrCSbF1ZpWENlbt6Mhiye9/view?usp=drive_link)
 - [Fundamentals of Data Engineering](https://drive.google.com/file/d/1F2y11_rpKPUW_953Swylsl5eVzUtl16g/view?usp=drive_link). Learn the data engineering lifecycle and  how to apply basic critical ideas in any data environment regardless of the underlying technology.
+
+### Databases
+- [Clickhouse Handbook](https://posthog.com/handbook/engineering/clickhouse)
+- [Clickhouse: How to pick an ORDER BY / PRIMARY KEY / PARTITION BY for the MergeTree family table](https://kb.altinity.com/engines/mergetree-table-engine-family/pick-keys/)
 
 ### Analytics Engineering
 - [What is analytics engineering?](https://www.getdbt.com/what-is-analytics-engineering) Explain the rational why dbt or other similar tools is introduced and how they reduce the complexity of SQL management.
